@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saifakhtar299@gmail.com
+- 👋 Hi, I’m Saif akhtar
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning java
 - 💞️ I’m looking for job
