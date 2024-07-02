@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saif akhtar
-- 👀 I’m interested in web development
+- 👀 I’m interested in Java development
 - 🌱 I’m currently learning java
 - 💞️ I’m looking for job
 - 📫 How to reach me( saifakhtar285@gmail.com)
